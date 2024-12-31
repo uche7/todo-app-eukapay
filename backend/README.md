@@ -1,4 +1,4 @@
-EUKAPAY Todo App by Nnajiofor Uchenna Franklin
+Todo App by Nnajiofor Uchenna Franklin
 Todo App - Backend
 
 This is the Todo App backend, built with Node.js and Express. The backend handles API requests, manages tasks data, and provides authentication if needed.

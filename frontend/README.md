@@ -1,4 +1,4 @@
-EUKAPAY Todo App by Nnajiofor Uchenna Franklin
+Todo App by Nnajiofor Uchenna Franklin
 
 Liveline: 
 
