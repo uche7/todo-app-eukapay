@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b2aecc4954da",
+    "content": "Morning Scrum Meeting",
+    "dueDate": "2024-12-12",
+    "status": "done"
+  },
+  {
+    "id": "13990452-318c",
+    "content": "Finish Frontend Task",
+    "dueDate": "",
+    "status": "done"
+  },
+  {
+    "id": "75d09b28-d770",
+    "content": "Buy materails for office setup",
+    "dueDate": "2024-12-13",
+    "status": "Unfinished"
+  },
+  {
+    "id": "8bded7c3e9026",
+    "content": "Evening Mass",
+    "dueDate": "2025-12-14",
+    "status": "Unfinished"
+  }
+]

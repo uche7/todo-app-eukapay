@@ -1,5 +1,5 @@
 {
-  "name": "todo-app-eukapay",
+  "name": "ToDo App",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,17 +11,18 @@
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
-    "@mui/material": "^6.2.1",
+    "@mui/icons-material": "^6.2.0",
+    "@mui/material": "^6.2.0",
     "next": "13.5.7",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-toastify": "^10.0.6"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10",
-    "docker-compose": "^1.1.0",
     "eslint": "^8",
     "eslint-config-next": "13.5.7",
     "postcss": "^8",
